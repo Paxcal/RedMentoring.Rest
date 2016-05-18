@@ -3,3 +3,5 @@
 ################################################################################
 
 /packages
+/RedMentoring.Rest.Api/bin
+/RedMentoring.Rest.Api/obj/Debug
